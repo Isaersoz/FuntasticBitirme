@@ -1,0 +1,2 @@
+# FuntasticBitirme
+Bitirme Projesi Repo
